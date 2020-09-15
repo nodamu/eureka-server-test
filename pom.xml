@@ -68,7 +68,7 @@
                 <configuration>
                     <image>
                         <name>
-                            nickadamu.eureka
+                            nickadamu/eureka
                         </name>
                     </image>
                 </configuration>
